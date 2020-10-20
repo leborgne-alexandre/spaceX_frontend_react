@@ -2,11 +2,11 @@ import Head from 'next/head'
 import { getItems } from './api/data'
 
 
-
+//get api request
 
 export async function getStaticProps() {
 
-  const dragons = await getItems("spaceX");
+  const dragons = await getItems("spaceX_api");
 
   return {
 
