@@ -14,3 +14,33 @@ a {
 * {
   box-sizing: border-box;
 }
+
+.text-center{ 
+
+  text-align:center
+
+}
+
+.img_resize{ 
+
+
+  width : 300px;
+
+}
+
+.bold{ 
+
+
+  font-weight: bold;
+
+}
+
+
+.center-content{ 
+
+
+  margin: 0 auto;
+     width: 80%; 
+
+
+}
